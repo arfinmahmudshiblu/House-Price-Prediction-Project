@@ -19,18 +19,18 @@ pip install -r requirements.txt
 ```
 
 
+# Project Structure
 
 HousePricePrediction/
 │
-├── app.py
+├── main.py
 ├── RidgeModel.pkl
 ├── final_dataset.csv
 │
 ├── templates/
 │   └── index.html
 │
-├── static/
-│   ├── css/
-│   └── js/
 │
+├──README.md
+├── setup.py
 └── requirements.txt
