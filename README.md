@@ -26,11 +26,9 @@ HousePricePrediction/
 ├── main.py
 ├── RidgeModel.pkl
 ├── final_dataset.csv
-│
-├── templates/
-│   └── index.html
-│
-│
-├──README.md
+├── README.md
 ├── setup.py
-└── requirements.txt
+├── requirements.txt
+│
+└── templates/
+    └── index.html
