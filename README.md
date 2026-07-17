@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 # Project Structure
 
+```bash 
 HousePricePrediction/
 │
 ├── main.py
